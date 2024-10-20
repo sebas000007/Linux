@@ -30,6 +30,7 @@
 ## **COMANDOS DE MAN PARA INFORMACION**
 | Comando | Descripción | Ejemplo |
 | --- | --- | --- |
+| `whatis comando` | Información breve sobre un comando | `whatis ls` |
 | `man comando` | Información sobre un comando | `man ls` |
 | `man -k palabra` | Buscar comandos relacionados con una palabra | `man -k user` |
 | `man -f comando` | Información sobre un comando y sus sinónimos | `man -f ls` |
@@ -37,6 +38,8 @@
 | `man intro` | Introducción a los comandos de Linux | `man intro` |
 | `man sections` | Información sobre las secciones del manual | `man sections` |
 | `man -a comando` | Mostrar todas las páginas del manual relacionadas con un comando | `man -a ls` |
+
+
 ### Anotaciones
 - Al cambiar permisos hay que recordar los tres items `(user,group,other)`
 - El comando Man  es muy útil para buscar información sobre comandos y herramientas de Linux.
