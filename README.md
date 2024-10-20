@@ -1,4 +1,4 @@
-# <img src="images/518713.png" alt="Imagen de ejemplo" width="60" height="60" style="position: relative; top: 10px;"> APUNTES CURSO CIBERSEGURIDAD LINUX 
+# <img src="images/518713.png" alt="Imagen de ejemplo" width="45" height="45" style="position: relative; top: 10px;"> APUNTES CURSO CIBERSEGURIDAD LINUX 
 
 ## Comandos nuevos aprendidos
 
