@@ -2,15 +2,42 @@
 
 ## Comandos nuevos aprendidos
 
-- Instalar apps `sudo apt install app`
-- desinstalar apps `sudo apt remove app `
-- Listar apps `apt list --installed`
-- Imprimir por consola `Echo "hola"`
-- Operaciones por consola `expr 3500 * 12`
-- Informacion sobre directorios de linux `man hier`
-- Ver permisos que tienen los archivos y ver files ocultos `ls -la`
-- busqueda de una cadena especifica dentro de un file `grep string archivo.txt`
-- pipe se utiliza para combinar comandos con | `ls home | grep users`
+- Instalar apps 
+```
+sudo apt install app
+```
+- desinstalar apps 
+```
+sudo apt remove app 
+```
+- Listar apps 
+```
+apt list --installed
+```
+- Imprimir por consola 
+```
+Echo "hola"
+``` 
+- Operaciones por consola
+ ```
+ expr 3500 * 12
+ ```
+- Informacion sobre directorios de linux 
+```
+man hier
+```
+- Ver permisos que tienen los archivos y ver files ocultos 
+```
+ls -la
+```
+- busqueda de una cadena especifica dentro de un file 
+```
+grep string archivo.txt
+```
+- pipe se utiliza para combinar comandos con | 
+```
+ls home | grep users
+```
 ----
 ## Directorios estandar del FHS
 
