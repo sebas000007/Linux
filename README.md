@@ -2,43 +2,17 @@
 
 ## Comandos nuevos aprendidos
 
-- Instalar apps 
-```
-sudo apt install app
-```
-- desinstalar apps 
-```
-sudo apt remove app 
-```
-- Listar apps 
-```
-apt list --installed
-```
-- Imprimir por consola 
-```
-Echo "hola"
-``` 
-- Operaciones por consola
- ```
- expr 3500 * 12
- ```
-- Informacion sobre directorios de linux 
-```
-man hier
-```
-- Ver permisos que tienen los archivos y ver files ocultos 
-```
-ls -la
-```
-- busqueda de una cadena especifica dentro de un file 
-```
-grep string archivo.txt
-```
-- pipe se utiliza para combinar comandos con | 
-```
-ls home | grep users
-```
-----
+| Comando | Descripción | Ejemplo |
+| --- | --- | --- |
+| `sudo apt install` | Instalar apps | `sudo apt install app` |
+| `sudo apt remove` | Desinstalar apps | `sudo apt remove app` |
+| `apt list --installed` | Listar apps | `apt list --installed` |
+| `echo` | Imprimir por consola | `echo "hola"` |
+| `expr` | Operaciones por consola | `expr 3500 * 12` |
+| `man hier` | Información sobre directorios de Linux | `man hier` |
+| `ls -la` | Ver permisos y archivos ocultos | `ls -la` |
+| `grep` | Buscar cadena específica en un archivo | `grep string archivo.txt` |
+| `pipe` | Combinar comandos con `linea vertical |  `ls home grep users` |
 ## Directorios estandar del FHS
 
 `/home:`
